@@ -12,14 +12,6 @@
     "workExpYear": "",
     "positionTitle": "数据可视化·前端工程师"
   },
-  "educationList": [
-    {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
-    }
-  ],
   "awardList": [
     {
       "award_info": "英语 CET6",
@@ -36,6 +28,14 @@
     {
       "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
       "award_time": "2021.07"
+    }
+  ],
+  "educationList": [
+    {
+      "edu_time": ["2014.09.01", "2018.06.30"],
+      "school": "华南理工大学",
+      "major": "网络工程",
+      "academic_degree": "本科"
     }
   ],
   "workExpList": [
